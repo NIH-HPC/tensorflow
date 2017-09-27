@@ -1,5 +1,5 @@
 BootStrap: docker
-From: tensorflow/tensorflow:1.3.0
+From: tensorflow/tensorflow:1.3.0-gpu
 
 ################################################################################
 %labels
